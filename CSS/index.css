@@ -107,3 +107,8 @@ h2 {
     text-decoration: underline;
     color: #5d00d6;
 }
+
+.intro {
+    font-size: x-large;
+    padding: 10px;
+}
